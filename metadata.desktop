@@ -1,0 +1,10 @@
+[KPackage]
+Type=Plasma/LookAndFeel
+X-KDE-PluginInfo-Author=Ali Asadi
+X-KDE-PluginInfo-Email=ali.asady@gmail.com
+X-KDE-PluginInfo-Name=PersianGlobalThemeX
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Website=https://p30developer.ir
+X-KDE-PluginInfo-Category=Global Themes
+X-KDE-PluginInfo-EnabledByDefault=true
